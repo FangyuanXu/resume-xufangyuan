@@ -1,2 +1,2 @@
-# resume-xufangyuan
+# resume-x
 resume
